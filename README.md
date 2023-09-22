@@ -2,7 +2,9 @@
 
 Vou colocar neste repositório todos os meus exercícios do 50 dias, 50 projetos
 
-Muitos desses projetos eu fiz seguindo a risca o pedido. Porém, com o conhecimento que adquiri durante esses meses, já consigo identificar e também sei como resolver alguns problemas que são apresentados nesses exercícios simples... Ou seja, em alguns dos 50 projetos, pode ser que tenha algumas mudanças feitas por mim para melhorar a UI/UX do usuário. Ex. O exercício 6 não está fazendo a box aparecer dinamicamente utilizando "Append" por exemplo. Simplesmente está sendo utilizado um transform com o X(-400%) o que em uma página ou app web simplesmente não funcionaria da maneira correta.
+Muitos desses projetos eu fiz seguindo a risca o pedido. Porém, com o conhecimento que adquiri durante esses meses, já consigo identificar e também sei como resolver alguns problemas que são apresentados nesses exercícios simples... Ou seja, em alguns dos 50 projetos, pode ser que tenha algumas mudanças feitas por mim para melhorar a UI/UX do usuário. Ex. O exercício 6 não está fazendo a box aparecer dinamicamente utilizando "Append" por exemplo. Simplesmente está sendo utilizado um transform com o X(-400%) o que em uma página ou app web simplesmente não funcionaria da maneira correta. (Se você abrir a página em uma tela maior ou simplesmente utilziar o zoom do navegador, já consegue perceber)
+
+Isso foi apenas um dos exemplos dos problemas que são encontrados na Demo de cada exercício... Já que a maioria nem responsivo é, está ali justamente pela proposta de você conseguir fazer o mesmo, ou até mesmo melhor.
 
 A meta é fazer 1 por dia, mas não irei me basear nisso. Pode ser que eu coloque 2 ou até mais projetos em único dia!
 
