@@ -1,0 +1,87 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Tahoma, "Trebuchet MS", sans-serif;
+}
+
+html, body {
+	height: 100%;
+}
+
+body {
+	background-color: #e6746c;
+}
+
+.container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.container .src__input {
+	display: flex;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.src__input {
+	position: relative;
+}
+
+.src__input input,
+.src__input button {
+	height: 50px;
+	width: 50px;
+	background-color: #fff;
+	border: 0;
+}
+
+.src__input input {
+	font-size: 18px;
+	padding: 15px;
+	transition: width 0.3s ease;
+}
+
+.src__input button {
+	cursor: pointer;
+	font-size: 24px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	transition: transform 0.3s ease;
+}
+
+.src__input button:hover {
+	color: #e6746c;
+}
+
+.src__input i {
+	font-size: 28px;
+}
+
+.src__input.active input {
+	width: 200px;
+}
+
+.src__input.active button {
+	transform: translateX(198px);
+}
+
+input:focus, button:focus {
+	outline: 0;
+}
+
+@media screen and (max-width: 560px) {
+	.src__input.active input {
+		width: 150px;
+	}
+
+	.src__input.active button {
+		transform: translateX(148px);
+	}
+}
+
+
