@@ -19,4 +19,8 @@ To do ~> Colocar os *favicons* nos projetos 7 e 8...
 9 - Sound Board - Botões interativos que emitem sons ao clicar - 25/09/23 <br>
 10 - Dad Jokes - Gerador de piadas de forma dinâmica - ?/09/23 <br>
 11 -  <br>
+12 -  <br>
+13 -  <br>
+14 -  <br>
+15 -  <br>
 
