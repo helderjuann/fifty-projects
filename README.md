@@ -16,6 +16,6 @@ To do ~> Colocar os *favicon* nos projetos 7 e 8...
 6 - Scroll Animation - Itens "aparecendo" conforme o scroll da página - 23/09/23 <br>
 7 - Split Landing Page - Site para venda de consoles com tela dividida - 24/09/23 <br>
 8 - Form Wave - Um formulário que altera o placeholder para label - 24/09/23 <br>
-9 - <br>
-10 -<br>
+9 - Sound Board - Botões interativos que emitem sons - 25/09/23 <br>
+10 - Dad Jokes - <br>
 
