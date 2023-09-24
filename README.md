@@ -15,7 +15,7 @@ A meta é fazer 1 por dia, mas não irei me basear nisso. Pode ser que eu coloqu
 5 - Blurry Loading - Conforme a página carrega, diminui o blur - 23/09/23 <br>
 6 - Scroll Animation - Itens "aparecendo" conforme o scroll da página - 23/09/23 <br>
 7 - Split Landing Page - Site para venda de consoles com tela dividida - 24/09/23 <br>
-8 - <br>
+8 - Form Wave <br>
 9 - <br>
 10 -<br>
 
