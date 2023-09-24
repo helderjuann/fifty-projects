@@ -6,6 +6,8 @@ Muitos desses projetos eu fiz seguindo a risca o pedido. Porém, com o conhecime
 
 A meta é fazer 1 por dia, mas não irei me basear nisso. Pode ser que eu coloque 2 ou até mais projetos em único dia!
 
+To do ~> Colocar os *favicon* nos projetos 7 e 8... 
+
 1 - Expanding Cards - Slider que abre a imagem com clique - 21/09/23 <br>
 2 - Progress Steps - Progresso animado (Slider bullets) - 21/09/23 <br>
 3 - Rotating Navigation Animation - Sidebar usando transform - 22/09/23 <br>
