@@ -17,7 +17,7 @@ A meta é fazer 1 por dia, mas não irei me basear nisso. Pode ser que eu coloqu
 9 - Sound Board - Botões interativos que emitem sons ao clicar - 25/09/23 <br>
 10 - Dad Jokes - Gerador de piadas de forma dinâmica - 25/09/23 <br>
 11 - Event Keycodes  <br>
-12 -  <br>
+12 - Faq Collapse <br>
 13 -  <br>
 14 -  <br>
 15 -  <br>
