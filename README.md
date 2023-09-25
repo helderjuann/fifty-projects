@@ -18,7 +18,7 @@ A meta é fazer 1 por dia, mas não irei me basear nisso. Pode ser que eu coloqu
 10 - Dad Jokes - Gerador de piadas de forma dinâmica - 25/09/23 <br>
 11 - Event Keycodes - Pegar o Keycode da tecla pressionada - 25/09/23 <br>
 12 - Faq Collapse - Box para FAQ (Pergunstas e respostas) - 25/09/23 <br>
-13 -  <br>
-14 -  <br>
-15 -  <br>
+13 - Random Choice Picker - <br>
+14 - Animated Navigation - <br>
+15 - Incrementing Counter - Contador para inscrições em redes sociais - 26/09/23 <br>
 
