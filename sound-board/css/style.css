@@ -1,0 +1,41 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Tahoma, "Trebuchet MS", sans-serif;
+}
+
+body {
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+	text-align: center;
+	justify-content: center;
+	flex-direction: column;
+	overflow-x: hidden;
+	height: 100vh;
+	background-color: #32a852;
+}
+
+.btn {
+	background-color: #076e23;
+	border-radius: 5px;
+	border: none;
+	color: #fff;
+	margin: 1rem;
+	padding: 1.5rem 3rem;
+	font-size: 1.2rem;
+	font-family: inherit;
+	cursor: pointer;
+}
+
+.btn:hover {
+	opacity: 0.9;
+}
+
+.btn:focus {
+	outline: none;
+}
+
+
+
