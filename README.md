@@ -24,7 +24,14 @@ A meta é fazer 1 por dia, mas não irei me basear nisso. Pode ser que eu coloqu
 
 | ID | Descrição | Feito em |
 | --- | --- | --- |
-| `1 - Expanding Cards` | List all *new or modified* files | 21/09/23 |
+| `1 - Expanding Cards` | Slider que abre a imagem com clique | 21/09/23 |
+| `2 - Progress Steps` | Etapas de progresso (Barra) | 21/09/23 |
+| `` |  |
+| `` |  |
+| `` |  |
+| `` |  |
+| `` |  |
+| `` |  |
 | `` |  |
 
 
