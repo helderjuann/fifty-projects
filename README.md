@@ -24,5 +24,7 @@ A meta é fazer 1 por dia, mas não irei me basear nisso. Pode ser que eu coloqu
 
 | ID | Descrição | Feito em |
 | --- | --- | --- |
-| `git status` | List all *new or modified* files |
+| `1 - Expanding Cards` | List all *new or modified* files | 21/09/23 |
+| `` |  |
+
 
