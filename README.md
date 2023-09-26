@@ -23,6 +23,6 @@ A meta é fazer 1 por dia, mas não irei me basear nisso. Pode ser que eu coloqu
 15 - Incrementing Counter - Contador para inscrições em redes sociais - 26/09/23 <br>
 
 | ID | Descrição | Feito em |
-| --- | --- |
+| --- | --- | --- |
 | `git status` | List all *new or modified* files |
 
