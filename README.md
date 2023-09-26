@@ -29,5 +29,9 @@ A meta é fazer 1 por dia, mas não irei me basear nisso. Pode ser que eu coloqu
 | `19 - Theme Clock` | Relógio analógico com tema white e dark | 27/09/23 |
 | `20 - Button Ripple Effect` | Efeito de wave no botão ao clicar | 27/09/23 | <!-- Parece muito com aqueles de framework css -->
 
+<!--
+| `` | x | x |
+-->
+
 
 
