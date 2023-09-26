@@ -23,8 +23,7 @@ A meta é fazer 1 por dia, mas não irei me basear nisso. Pode ser que eu coloqu
 | `13 - Random Choice Picker` | Escolher de forma aleatória alguma palavra que digitei | 26/09/23 |
 | `14 - Animated Navigation` | Navbar responsiva e animada (Slider) | 26/09/23 |
 | `15 - Incrementing Counter` | Contador para inscrições em redes sociais | 26/09/23 |
-
-| `` |  |  |
+| `16 - Drink Water` | Quantidade de água que bebeu durante o dia de maneira interativa | 27/09/23 |
 | `` |  |  |
 | `` |  |  |
 | `` |  |  |
