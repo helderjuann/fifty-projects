@@ -6,22 +6,6 @@ Muitos desses projetos eu fiz seguindo a risca o pedido. Porém, com o conhecime
 
 A meta é fazer 1 por dia, mas não irei me basear nisso. Pode ser que eu coloque 2 ou até mais projetos em único dia!
 
-1 - Expanding Cards - Slider que abre a imagem com clique - 21/09/23 <br>
-2 - Progress Steps - Progresso animado (Slider bullets) - 21/09/23 <br>
-3 - Rotating Navigation Animation - Sidebar usando transform - 22/09/23 <br>
-4 - Hidden Search Widget - Input que abre dinamicamente com clique - 22/09/23 <br>
-5 - Blurry Loading - Conforme a página carrega, diminui o blur - 23/09/23 <br>
-6 - Scroll Animation - Itens "aparecendo" conforme o scroll da página - 23/09/23 <br>
-7 - Split Landing Page - Site para venda de consoles com tela dividida - 24/09/23 <br>
-8 - Form Wave - Um formulário que altera o placeholder para label - 24/09/23 <br>
-9 - Sound Board - Botões interativos que emitem sons ao clicar - 25/09/23 <br>
-10 - Dad Jokes - Gerador de piadas de forma dinâmica - 25/09/23 <br>
-11 - Event Keycodes - Pegar o Keycode da tecla pressionada - 25/09/23 <br>
-12 - Faq Collapse - Box para FAQ (Pergunstas e respostas) - 25/09/23 <br>
-13 - Random Choice Picker - Escolher de forma aleatória alguma palavra que digitei - 26/09/23 <br>
-14 - Animated Navigation - Navbar responsiva e animada (Slider) - 26/09/23 <br>
-15 - Incrementing Counter - Contador para inscrições em redes sociais - 26/09/23 <br>
-
 | Projeto | Descrição | Feito em |
 | --- | --- | --- |
 | `1 - Expanding Cards` | Slider que abre a imagem com clique | 21/09/23 |
@@ -32,6 +16,13 @@ A meta é fazer 1 por dia, mas não irei me basear nisso. Pode ser que eu coloqu
 | `6 - Scroll Animation` | Itens "aparecendo" conforme o scroll da página | 23/09/23 |
 | `7 - Split Landing Page` | Site para venda de consoles com tela dividida | 24/09/23 |
 | `8 - Form Wave` | Um formulário que altera o placeholder para label | 24/09/23 |
+| `9 - Sound Board` | Botões interativos que emitem sons ao clicar | 25/09/23 |
+| `10 - Dad Jokes` | Gerador de piadas de forma dinâmica | 25/09/23 |
+| `11 - Event Keycodes` | Pegar o Keycode da tecla pressionada | 25/09/23 |
+| `12 - Faq Collapse` | Box para FAQ (Pergunstas e respostas) | 25/09/23 |
+| `13 - Random Choice Picker` | Escolher de forma aleatória alguma palavra que digitei | 26/09/23 |
+| `14 - Animated Navigation` | Navbar responsiva e animada (Slider) | 26/09/23 |
+| `15 - Incrementing Counter` | Contador para inscrições em redes sociais | 26/09/23 |
 | `` |  |  |
 | `` |  |  |
 | `` |  |  |
