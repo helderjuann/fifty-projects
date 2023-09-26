@@ -22,16 +22,21 @@ A meta é fazer 1 por dia, mas não irei me basear nisso. Pode ser que eu coloqu
 14 - Animated Navigation - Navbar responsiva e animada (Slider) - 26/09/23 <br>
 15 - Incrementing Counter - Contador para inscrições em redes sociais - 26/09/23 <br>
 
-| ID | Descrição | Feito em |
+| Projeto | Descrição | Feito em |
 | --- | --- | --- |
 | `1 - Expanding Cards` | Slider que abre a imagem com clique | 21/09/23 |
 | `2 - Progress Steps` | Etapas de progresso (Barra) | 21/09/23 |
-| `` |  |
-| `` |  |
-| `` |  |
-| `` |  |
-| `` |  |
-| `` |  |
-| `` |  |
+| `` |  |  |
+| `` |  |  |
+| `` |  |  |
+| `` |  |  |
+| `` |  |  |
+| `` |  |  |
+| `` |  |  |
+| `` |  |  |
+| `` |  |  |
+| `` |  |  |
+| `` |  |  |
+
 
 
