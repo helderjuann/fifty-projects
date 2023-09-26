@@ -20,14 +20,14 @@ A meta é fazer 1 por dia, mas não irei me basear nisso. Pode ser que eu coloqu
 | `10 - Dad Jokes` | Gerador de piadas de forma dinâmica | 25/09/23 |
 | `11 - Event Keycodes` | Pegar o Keycode da tecla pressionada | 25/09/23 |
 | `12 - Faq Collapse` | Box para FAQ (Pergunstas e respostas) | 25/09/23 |
-| `13 - Random Choice Picker` | Escolher de forma aleatória alguma palavra que digitei | 26/09/23 |
+| `13 - Random Choice Picker` | Sorteio de palavras que foram digitas no textarea | 26/09/23 |
 | `14 - Animated Navigation` | Navbar responsiva e animada (Slider) | 26/09/23 |
 | `15 - Incrementing Counter` | Contador para inscrições em redes sociais | 26/09/23 |
-| `16 - Drink Water` | Quantidade de água que bebeu durante o dia de maneira interativa | 27/09/23 |
-| `` |  |  |
-| `` |  |  |
-| `` |  |  |
-| `` |  |  |
+| `16 - Drink Water` | Quantidade de água ingerida no dia de maneira interativa | 27/09/23 |
+| `17 - Movie App` | Site para assistir filmes e séries com API | 27/09/23 |
+| `18 - Background Slider` | Slider interativo super interessante para websites | 27/09/23 |
+| `19 - Theme Clock` | Relógio analógico com tema white e dark | 27/09/23 |
+| `20 - Button Ripple Effect` | Efeito de wave no botão ao clicar | 27/09/23 | <!-- Parece muito com aqueles de framework css -->
 
 
 
