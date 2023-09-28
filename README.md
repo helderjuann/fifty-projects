@@ -30,7 +30,7 @@ A meta é fazer 1 por dia, mas não irei me basear nisso. Pode ser que eu coloqu
 | 20 - Button Ripple Effect | Efeito de wave no botão ao clicar | `27/09/23` | <!-- Parece muito com aqueles de framework css -->
 | 21 - Drag N Drop | Função de arrastar um item de uma box para outra | `28/09/23` |
 | 22 - Drawing App | Uma tela para desenhar - Parecido com o Paint | `28/09/23` |
-| x | x | `` |
+| 23 - Kinetic Loader | Animação de carregamento na página | `29/09/23` |
 | x | x | `` |
 | x | x | `` |
 
