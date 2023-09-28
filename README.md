@@ -32,7 +32,7 @@ A meta é fazer 1 por dia, mas não irei me basear nisso. Pode ser que eu coloqu
 | 22 - Drawing App | Uma tela para desenhar - Parecido com o Paint | `28/09/23` |
 | 23 - Kinetic Loader | Animação de carregamento na página | `29/09/23` |
 | 24 - Content Placeholder | Box para colocar texto com autor (Conteúdo) | `29/09/23` |
-| x | x | `` |
+| 25 - Sticky Navbar | Navbar fixada no topo com animação de scroll | `29/09/23` |
 
 <!--     | x | x | `` |     -->
 
