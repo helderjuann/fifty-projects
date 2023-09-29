@@ -29,6 +29,8 @@ A meta é fazer 1 por dia, mas não irei me basear nisso. Pode ser que eu coloqu
 | 23 - Kinetic Loader | Animação de carregamento na página | `29/09/23` |
 | 24 - Content Placeholder | Box para colocar texto com autor (Conteúdo) | `29/09/23` |
 | 25 - Sticky Navbar | Navbar fixada no topo com animação de scroll | `29/09/23` |
+| 26 - Double Vertical Slider | Slider completamente dinâmico com imagens | `30/09/23` | <!-- Implementar isso em futuros projetos... Ótima ideia -->
+| x | x | `` |
 
 <!--     | x | x | `` |     -->
 
