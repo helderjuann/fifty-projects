@@ -31,8 +31,7 @@ A meta é fazer 1 por dia, mas não irei me basear nisso. Pode ser que eu coloqu
 | 25 - Sticky Navbar | Navbar fixada no topo com animação de scroll | `29/09/23` |
 | 26 - Double Vertical Slider | Slider completamente dinâmico com imagens | `30/09/23` | <!-- Implementar isso em futuros projetos... Ótima ideia -->
 | 27 - Toast Notification | Notificações no canto da tela animadas | `30/09/23` |
-| x | x | `` |
-Github Profiles
+| 28 - Github Profiles | x | `` |
 
 <!--     | x | x | `` |     -->
 
