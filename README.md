@@ -32,6 +32,8 @@ A meta é fazer 1 por dia, mas não irei me basear nisso. Pode ser que eu coloqu
 | 26 - Double Vertical Slider | Slider completamente dinâmico com imagens | `30/09/23` | <!-- Implementar isso em futuros projetos... Ótima ideia -->
 | 27 - Toast Notification | Notificações no canto da tela animadas | `30/09/23` |
 | 28 - Github Profiles | Web App para buscar o perfil de alguém no Github | `30/09/23` | <!-- fazer o layout mobile -->
+| 29 - Double Click Heart | x | `` |
+| x | x | `` |
 
 <!--     | x | x | `` |     -->
 
