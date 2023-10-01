@@ -34,7 +34,7 @@ A meta é fazer 1 por dia, mas não irei me basear nisso. Pode ser que eu coloqu
 | 28 - Github Profiles | Web App para buscar o perfil de alguém no Github | `30/09/23` | <!-- fazer o layout mobile -->
 | 29 - Double Click Heart | Sistema de like em imagem com clique duplo | `01/10/23` |
 | 30 - Auto Text Effect | Texto automático com velocidade personalizada | `01/10/23` |
-| x | x | `` |
+| 31 - Password Generator | Gerador de senhas para melhorar sua privacidade | `02/10/23` |
 | x | x | `` |
 
 <!--     | x | x | `` |     -->
