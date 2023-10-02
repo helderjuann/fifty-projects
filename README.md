@@ -36,7 +36,7 @@ A meta é fazer 1 por dia, mas não irei me basear nisso. Pode ser que eu coloqu
 | 30 - Auto Text Effect | Texto automático com velocidade personalizada | `01/10/23` |
 | 31 - Password Generator | Gerador de senhas para melhorar sua privacidade | `02/10/23` |
 | 32 - Good, Cheap, Fast | Escolher se você quer um projeto bom ou barato | `02/10/23` |
-| 33 | x | `` |
+| 33 - Notes App | Faça suas anotações de maneira simples e fácil | `03/10/23` |
 | 34 | x | `` |
 | 35 | x | `` |
 
