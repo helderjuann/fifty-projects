@@ -39,6 +39,8 @@ A meta é fazer 1 por dia, mas não irei me basear nisso. Pode ser que eu coloqu
 | 33 - Notes App | Faça suas anotações de maneira simples e fácil | `03/10/23` |
 | 34 - Animated Countdown | Contagem regressiva animada com JS | `03/10/23` |
 | 35 - Image Carousel | Carrossel com imagens finitas | `03/10/23` |
+| 36 - Hoverboard | x | `` |
+
 
 <!--     | x | x | `` |     -->
 
