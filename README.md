@@ -40,7 +40,7 @@ A meta é fazer 1 por dia, mas não irei me basear nisso. Pode ser que eu coloqu
 | 34 - Animated Countdown | Contagem regressiva animada com JS | `03/10/23` |
 | 35 - Image Carousel | Carrossel com imagens finitas | `03/10/23` |
 | 36 - Hoverboard | Efeito arco-íris com hover (Modelo square) | `04/10/23` |
-| 37 - Pokedex | Pokedex totalmente dinâmica e colorida com API | `04/10/23` |
+| 37 - Pokedex | Pokedex totalmente dinâmica e colorida com API | `04/10/23` | <!-- Usar a ideia no meu projeto pessoal -->
 | 38 - Mobile Tab Navigation | Uma barra de navegação para mobile (Nav) | `04/10/23` |
 
 
