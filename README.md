@@ -44,7 +44,7 @@ A meta é fazer 1 por dia, mas não irei me basear nisso. Pode ser que eu coloqu
 | 38 - Mobile Tab Navigation | Uma barra de navegação para mobile (Nav) | `04/10/23` |
 | 39 - Password Strength Background | Testar a força da sua senha  de maneira interativa | `05/10/23` |
 | 40 - 3d Background Boxes | Box com efeito 3D e animado | `05/10/23` |
-| 41 - Verify Account Ui | Verificar código enviado para e-mail | `05/10/23` |
+| 41 - Verify Account Ui | Código enviado para e-mail para validar conta | `05/10/23` |
 | 42 - Live User Filter | Filtrar e buscar usuários ao vivo | `05/10/23` |
 | 43 - Feedback Ui Design | Interface para avaliação de serviço | `05/10/23` |
 
