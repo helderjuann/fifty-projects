@@ -42,11 +42,11 @@ A meta é fazer 1 por dia, mas não irei me basear nisso. Pode ser que eu coloqu
 | 36 - Hoverboard | Efeito arco-íris com hover (Modelo square) | `04/10/23` |
 | 37 - Pokedex | Pokedex totalmente dinâmica e colorida com API | `04/10/23` | <!-- Usar a ideia no meu projeto pessoal -->
 | 38 - Mobile Tab Navigation | Uma barra de navegação para mobile (Nav) | `04/10/23` |
-| 39 - Password Strength Background | x | `` |
-| 40 - 3d Background Boxes | x | `` |
-| 41 - Verify Account Ui | x | `` |
-| 42 - Live User Filter | x | `` |
-| 43 - Feedback Ui Design | x | `` |
+| 39 - Password Strength Background | Testar a força da sua senha | `05/10/23` |
+| 40 - 3d Background Boxes | Box com efeito 3D e animado | `05/10/23` |
+| 41 - Verify Account Ui | Verificar código enviado para e-mail | `05/10/23` |
+| 42 - Live User Filter | Filtrar e buscar usuários ao vivo | `05/10/23` |
+| 43 - Feedback Ui Design | Interface para avaliação de serviço | `05/10/23` |
 
 
 <!--     | x | x | `` |     -->
