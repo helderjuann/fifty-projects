@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Projeto 39 de 50">
+    <meta name="keywords" content="Página Web, Landing Page, Html, CSS, JavaScript">
+    <meta name="author" content="Helder Juan">
+    <meta name="viewport" content="
+        width=device-width,initial-scale=1.0,maximum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Password Strength Background - 39</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/1.8.11/tailwind.min.css"
+    integrity="sha512-KO1h5ynYuqsFuEicc7DmOQc+S9m2xiCKYlC3zcZCSEw0RGDsxcMnppRaMZnb0DdzTDPaW22ID/gAGCZ9i+RT/w=="crossorigin="anonymous">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="./assets/ico.png">
+</head>
+
+<body>
+    <div class="background" id="background"></div><!-- background -->
+    <div class="bg-white rounded p-10 text-center shadow-md">
+        <h1 class="text-3xl">O quão segura é a sua senha?</h1>
+        <p class="text-sm text-gray-700">O blur diminui conforme o tamanho da sua senha</p>
+        <div class="my-4 text-left">
+            <label for="email" class="text-gray-900">Usuário:</label>
+            <input type="text" class="border block w-full p-2 mt-2 rounded" id="email" placeholder="Digite seu e-mail ou usuário">
+        </div><!-- text-left -->
+        <div class="my-4 text-left">
+            <label for="email" class="text-gray-900">Senha:</label>
+            <input type="password" class="border block w-full p-2 mt-2 rounded" id="password" placeholder="Digite sua senha">
+        </div><!-- text-left -->
+        <button class="bg-black text-white py-2 mt-4 inline-block w-full rounded" type="submit">Entrar</button>
+    </div><!-- bg-white -->
+    <script src="js/functions.js"></script>
+</body>
+
+</html>
