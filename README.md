@@ -51,7 +51,7 @@ A meta é fazer 1 por dia, mas não irei me basear nisso. Pode ser que eu coloqu
 | 45 - Netflix Mobile Navigation | Navbar da netflix para mobile | `07/10/23` |
 | 46 - Quiz App | Jogo de perguntas e respostas interativo | `07/10/23` |
 | 47 - Testimonial Box Switcher | Depoimento de clientes animado dinamicamente | `07/10/23` |
-| 48 - Random Image Feed | Galeria responsiva com imagens aleatórias | `08/10/23` |
+| 48 - Random Image Feed | Galeria responsiva com imagens aleatórias automáticas | `08/10/23` |
 | 49 - Todo List | x | `` |
 | 50 - Insect Catch Game | x | `` |
 
