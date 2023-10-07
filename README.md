@@ -50,7 +50,7 @@ A meta é fazer 1 por dia, mas não irei me basear nisso. Pode ser que eu coloqu
 | 44 - Custom Range Slider | Barra para conseguir filtrar valores | `06/10/23` |
 | 45 - Netflix Mobile Navigation | Navbar da netflix para mobile | `07/10/23` |
 | 46 - Quiz App | Jogo de perguntas e respostas interativo | `07/10/23` |
-| 47 - Testimonial Box Switcher | Box para depoimento de clientes animado | `07/10/23` |
+| 47 - Testimonial Box Switcher | Box para depoimento de clientes animado dinamicamente | `07/10/23` |
 
 <!--     | x | x | `` |     -->
 
