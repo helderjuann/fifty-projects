@@ -48,7 +48,7 @@ A meta é fazer 1 por dia, mas não irei me basear nisso. Pode ser que eu coloqu
 | 42 - Live User Filter | Filtrar e buscar usuários ao vivo | `05/10/23` |
 | 43 - Feedback Ui Design | Interface para avaliação de satisfação do serviço | `05/10/23` |
 | 44 - Custom Range Slider | Barra para conseguir filtrar valores | `06/10/23` |
-
+| 45 - Netflix Mobile Navigation | x | `` |
 
 <!--     | x | x | `` |     -->
 
