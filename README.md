@@ -52,6 +52,8 @@ A meta é fazer 1 por dia, mas não irei me basear nisso. Pode ser que eu coloqu
 | 46 - Quiz App | Jogo de perguntas e respostas interativo | `07/10/23` |
 | 47 - Testimonial Box Switcher | Depoimento de clientes animado dinamicamente | `07/10/23` |
 | 48 - Random Image Feed | x | `` |
+| 49 - Todo List | x | `` |
+| 50 - Insect Catch Game | x | `` |
 
 
 <!--     | x | x | `` |     -->
