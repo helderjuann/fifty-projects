@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Projeto 50 de 50">
+    <meta name="keywords" content="Página Web, Landing Page, Html, CSS, JavaScript">
+    <meta name="author" content="Helder Juan">
+    <meta name="viewport" content="
+        width=device-width,initial-scale=1.0,maximum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Catch The Insect - 50</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="./assets/ico.png">
+</head>
+
+<body>
+    <div class="screen">
+        <h1>Catch The Insect</h1>
+        <button class="btn" id="start-btn">Play Game</button>
+    </div><!-- screen -->
+    <div class="screen">
+        <h1>Com qual inseto você deseja jogar?</h1>
+        <ul class="insects-list">
+            <li>
+                <button class="choose-insect-btn">
+                    <p>Mosca</p>
+                    <img src="http://pngimg.com/uploads/fly/fly_PNG3946.png" alt="mosca">
+                </button>
+            </li>
+            <li>
+                <button class="choose-insect-btn">
+                    <p>Mosquito</p>
+                    <img src="http://pngimg.com/uploads/mosquito/mosquito_PNG18175.png" alt="mosquito">
+                </button>
+            </li>
+            <li>
+                <button class="choose-insect-btn">
+                    <p>Aranha</p>
+                    <img src="http://pngimg.com/uploads/spider/spider_PNG12.png" alt="aranha">
+                </button>
+            </li>
+            <li>
+                <button class="choose-insect-btn">
+                    <p>Barata</p>
+                    <img src="http://pngimg.com/uploads/roach/roach_PNG12163.png" alt="barata">
+                </button>
+            </li>
+        </ul>
+    </div><!-- screen -->
+    <div class="screen game-container" id="game-container">
+        <h3 id="time" class="time">Tempo: 00:00</h3>
+        <h3 id="score" class="score">Pontuação: 0</h3>
+        <h5 id="message" class="message">
+        Você não desistiu ainda? <br>
+        Este jogo é impossível de vencer!!</h5>
+    </div><!-- screen game-container -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="js/functions.js"></script>
+</body>
+
+</html>
