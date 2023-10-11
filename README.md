@@ -1,5 +1,8 @@
 # fifty-projects
 
+Comecei no dia 21 de Setembro de 2023
+Terminei no dia 10 de Outubro de 2023
+
 | Projeto | Descrição | Feito em |
 | --- | --- | --- |
 | 1 - Expanding Cards | Slider que abre a imagem com clique | `21/09/23` |
