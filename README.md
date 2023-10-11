@@ -52,7 +52,7 @@ A meta é fazer 1 por dia, mas não irei me basear nisso. Pode ser que eu coloqu
 | 46 - Quiz App | Jogo de perguntas e respostas interativo | `07/10/23` |
 | 47 - Testimonial Box Switcher | Depoimento de clientes animado dinamicamente | `07/10/23` |
 | 48 - Random Image Feed | Galeria responsiva com imagens aleatórias automáticas | `08/10/23` |
-| 49 - Todo List | Lista de afazeres com LocalStorage para armazenar local | `08/10/23` |
+| 49 - Todo List | Lista de afazeres com LocalStorage para armazenar local | `09/10/23` |
 | 50 - Insect Catch Game | Jogo point and click para capturar insetos | `08/10/23` |
 
 
