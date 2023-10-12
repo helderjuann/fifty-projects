@@ -52,7 +52,7 @@ Comecei no dia 21 de Setembro de 2023 <br> Terminei no dia 10 de Outubro de 2023
 | 46 - Quiz App | Jogo de perguntas e respostas interativo | `07/10/23` |
 | 47 - Testimonial Box Switcher | Depoimento de clientes animado dinamicamente | `07/10/23` |
 | 48 - Random Image Feed | Galeria responsiva com imagens aleatórias automáticas | `08/10/23` |
-| 49 - Todo List | Lista de afazeres com LocalStorage para armazenar local | `09/10/23` | <!-- Faze esses mesmo sistema e utilizar deploy para uso pessoal -->
+| 49 - Todo List | Lista de afazeres com LocalStorage para armazenar local | `09/10/23` | <!-- Fazer esses mesmo sistema e utilizar deploy para uso pessoal -->
 | 50 - Insect Catch Game | Jogo point and click para capturar insetos | `10/10/23` | <!-- Usar a ideia para dar continuidade no meu jogo js -->
 
 
