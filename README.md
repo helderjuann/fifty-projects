@@ -1,6 +1,6 @@
 # fifty-projects
 
-Comecei no dia 21 de Setembro de 2023 <br> Terminei no dia 10 de Outubro de 2023
+Comecei no dia 21 de Setembro de 2023 <br> Terminei no dia 10 de Outubro de 2023 <br> Muito gratificante ter feito todos projetos.
 
 | Projeto | Descrição | Feito em |
 | --- | --- | --- |
